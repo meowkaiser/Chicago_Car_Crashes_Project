@@ -3,7 +3,7 @@
 
 ## Business and Data Understanding
 
-We created classification models to predict what the prime factors cause an accident that can result in a fatality. If successful and Mercedes Benz implements our recommendations, we will see a decrease in fatalities and an overall increase in safety for all citizens.
+We started a software company to help car companys make their buyers feel safer. We are pitching the product to Mercedes Benz because they are a world reknown symbol of quality and class. The software is used to potentially save the life of a driver in the event of a car accident. Similar to that of a black box, the software takes record of the features occuring at the time of the accident and if they are highly correlated with those of previous fatal crashes, athorities are immediately notified of possible death. We created classification models to predict what the prime factors cause an accident that can result in a fatality. If successful and Mercedes Benz implements our recommendations, we will see a decrease in fatalities and an overall increase in safety for all citizens.
 
 We used the 3 data sets below from the City of Chicago website and combined them.
 
