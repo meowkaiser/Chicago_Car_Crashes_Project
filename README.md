@@ -14,5 +14,9 @@ Traffic Crashes - Vehicle: https://data.cityofchicago.org/Transportation/Traffic
 
 Traffic Crashes - People: https://data.cityofchicago.org/Transportation/Traffic-Crashes-People/u6pd-qa9d
 ## Modeling
+
+![image](https://user-images.githubusercontent.com/12703065/145256200-6a319729-69fd-461e-9384-b18728d99d07.png)
+
+
 ## Evaluation
 ## Conclusion
