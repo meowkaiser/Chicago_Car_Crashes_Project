@@ -24,5 +24,15 @@ We started a software company to help car companys make their buyers feel safer.
 We chose to use dummy, dummy with smote, decsion tree, random forrest and k-nearest neighbor for our modeling. K-nearest neighbor was not a good modeling choice for our data because we have entirely too much data so it had to be taken out of our final product. 
 
 ## Evaluation
+
+![image](https://user-images.githubusercontent.com/12703065/145587882-e859575d-6639-4ffc-921c-b6b9dc063155.png)
+Decision Tree:
+* Accuracy:  0.9180
+* AUC: 0.79
+* Precision: 0.0079
+* Recall: 0.4884
+* F1 Score: 0.0155
+This final model is excellent at predicting whether or not a car crash is fatal. Therefore, this model should be used by car companies as a safety feature in their vehicles to help 911 dispatchers determine whether or not certain crashes are a priority or not.
+
 ## Conclusion
 We conclude that Mercedes Benz should have software follow the decision tree model, use those recommendations to determine emergency and install “smart” software on cars that use this model.
