@@ -27,14 +27,19 @@ We chose to use dummy, dummy with smote, decision tree, random forrest and k-nea
 
 <img width="423" alt="Screen Shot 2021-12-10 at 11 59 47 AM" src="https://user-images.githubusercontent.com/92389914/145620324-099a30c2-6185-4fcb-a482-01644b81f54f.png">
 
+Accuracy Score: 0.9977578704888661
+
 ### Dummy with smote
 
 <img width="408" alt="Screen Shot 2021-12-10 at 12 14 58 PM" src="https://user-images.githubusercontent.com/92389914/145622096-f8388c25-e200-49ea-b06b-b2c618546f1f.png">
+
+Accuracy Score: 0.5009367801382134
 
 ### Decision Tree
 
 <img width="411" alt="Screen Shot 2021-12-10 at 12 16 21 PM" src="https://user-images.githubusercontent.com/92389914/145622306-5b54f607-b113-402d-8d2b-a105f70bca3e.png">
 
+Accuracy Score: 0.917952393140517
 our best model
 
 
@@ -44,6 +49,7 @@ our best model
 
 <img width="399" alt="Screen Shot 2021-12-10 at 12 18 32 PM" src="https://user-images.githubusercontent.com/92389914/145622510-416b97a6-f725-4a45-a323-04390193691c.png">
 
+Accuracy Score: 0.9986485794727412
 this model never predicts a fatal crash so it cannot be used.
 
 ## Evaluation
