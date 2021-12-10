@@ -32,12 +32,16 @@ Dummy with smote
 <img width="408" alt="Screen Shot 2021-12-10 at 12 14 58 PM" src="https://user-images.githubusercontent.com/92389914/145622096-f8388c25-e200-49ea-b06b-b2c618546f1f.png">
 
 Decision Tree
+
 <img width="411" alt="Screen Shot 2021-12-10 at 12 16 21 PM" src="https://user-images.githubusercontent.com/92389914/145622306-5b54f607-b113-402d-8d2b-a105f70bca3e.png">
 
 our best model
 
 
+
+
 Random forrest
+
 <img width="399" alt="Screen Shot 2021-12-10 at 12 18 32 PM" src="https://user-images.githubusercontent.com/92389914/145622510-416b97a6-f725-4a45-a323-04390193691c.png">
 
 this model never predicts a fatal crash so it cannot be used.
