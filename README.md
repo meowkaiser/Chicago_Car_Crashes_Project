@@ -23,6 +23,20 @@ We started a software company to help car companys make their buyers feel safer.
 ![image](https://user-images.githubusercontent.com/12703065/145256200-6a319729-69fd-461e-9384-b18728d99d07.png)
 We chose to use dummy, dummy with smote, decision tree, random forrest and k-nearest neighbor for our modeling. K-nearest neighbor was not a good modeling choice for our data because we have entirely too much data so it had to be taken out of our final product. 
 
+Dummy model
+<img width="423" alt="Screen Shot 2021-12-10 at 11 59 47 AM" src="https://user-images.githubusercontent.com/92389914/145620324-099a30c2-6185-4fcb-a482-01644b81f54f.png">
+
+Dummy with smote
+<img width="408" alt="Screen Shot 2021-12-10 at 12 14 58 PM" src="https://user-images.githubusercontent.com/92389914/145622096-f8388c25-e200-49ea-b06b-b2c618546f1f.png">
+
+Decision Tree
+<img width="411" alt="Screen Shot 2021-12-10 at 12 16 21 PM" src="https://user-images.githubusercontent.com/92389914/145622306-5b54f607-b113-402d-8d2b-a105f70bca3e.png">
+our best model
+
+Random forrest
+<img width="399" alt="Screen Shot 2021-12-10 at 12 18 32 PM" src="https://user-images.githubusercontent.com/92389914/145622510-416b97a6-f725-4a45-a323-04390193691c.png">
+this model never predicts a fatal crash so it cannot be used.
+
 ## Evaluation
 
 ![image](https://user-images.githubusercontent.com/12703065/145587882-e859575d-6639-4ffc-921c-b6b9dc063155.png)
