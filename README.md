@@ -21,7 +21,7 @@ We started a software company to help car companys make their buyers feel safer.
 ## Modeling
 
 ![image](https://user-images.githubusercontent.com/12703065/145256200-6a319729-69fd-461e-9384-b18728d99d07.png)
-We chose to use dummy, dummy with smote, decsion tree, random forrest and k-nearest neighbor for our modeling. K-nearest neighbor was not a good modeling choice for our data because we have entirely too much data so it had to be taken out of our final product. 
+We chose to use dummy, dummy with smote, decision tree, random forrest and k-nearest neighbor for our modeling. K-nearest neighbor was not a good modeling choice for our data because we have entirely too much data so it had to be taken out of our final product. 
 
 ## Evaluation
 
