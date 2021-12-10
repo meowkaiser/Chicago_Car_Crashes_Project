@@ -37,6 +37,8 @@ Accuracy Score: 0.5009367801382134
 
 ### Decision Tree
 
+<img width="468" alt="Screen Shot 2021-12-10 at 1 08 21 PM" src="https://user-images.githubusercontent.com/92389914/145628456-91edac77-a670-413f-968e-55af9243c9f7.png">
+
 <img width="411" alt="Screen Shot 2021-12-10 at 12 16 21 PM" src="https://user-images.githubusercontent.com/92389914/145622306-5b54f607-b113-402d-8d2b-a105f70bca3e.png">
 
 Accuracy Score: 0.917952393140517
@@ -47,6 +49,7 @@ our best model
 
 ### Random forrest
 
+<img width="465" alt="Screen Shot 2021-12-10 at 1 06 59 PM" src="https://user-images.githubusercontent.com/92389914/145628319-7506f13b-7c34-42d6-a2ad-46d446e83813.png">
 <img width="399" alt="Screen Shot 2021-12-10 at 12 18 32 PM" src="https://user-images.githubusercontent.com/92389914/145622510-416b97a6-f725-4a45-a323-04390193691c.png">
 
 Accuracy Score: 0.9986485794727412
