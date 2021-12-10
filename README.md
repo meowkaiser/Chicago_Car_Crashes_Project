@@ -32,6 +32,7 @@ Decision Tree:
 * Precision: 0.0079
 * Recall: 0.4884
 * F1 Score: 0.0155
+
 This final model is excellent at predicting whether or not a car crash is fatal. Therefore, this model should be used by car companies as a safety feature in their vehicles to help 911 dispatchers determine whether or not certain crashes are a priority or not.
 
 ## Conclusion
